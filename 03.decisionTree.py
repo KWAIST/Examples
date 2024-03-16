@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  5 20:31:58 2024
 
-@author: jaege
+@author: jaege_son
 """
 
 # 필요한 라이브러리 임포트
